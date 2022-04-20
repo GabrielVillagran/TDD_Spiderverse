@@ -24,7 +24,7 @@ describe("Unit Test for spiderman Tom Holland", () => {
     });
 })
 
-// prueba 2 fallida
+// prueba 2 correcta
 describe("Unit Test for spiderman Tom Holland", () => {
     test('Case 3: Getting info about spiderman', () => {
         //   codigo a utilizar para comprobar su estado
